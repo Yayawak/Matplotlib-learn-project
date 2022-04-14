@@ -4,3 +4,4 @@
 1. Image-processing 
 2. Plotting 
 3. Mathematic
+4. Ocr
