@@ -1,0 +1,40 @@
+X sex
+ |-- male
+ |-- female
+====================
+X embarked
+ |-- S
+ |-- C
+ |-- Q
+ |-- nan
+====================
+X who
+ |-- man
+ |-- woman
+ |-- child
+====================
+X embark
+ |-- Southampton
+ |-- Cherbourg
+ |-- Queenstown
+ |-- nan
+====================
+X alive
+ |-- no
+ |-- yes
+====================
+X class
+ |-- Third
+ |-- First
+ |-- Second
+====================
+X deck
+ |-- nan
+ |-- C
+ |-- E
+ |-- G
+ |-- D
+ |-- A
+ |-- B
+ |-- F
+====================
